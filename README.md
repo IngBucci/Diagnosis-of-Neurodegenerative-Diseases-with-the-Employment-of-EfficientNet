@@ -6,7 +6,7 @@ Protocollo sperimentale per studiare la dinamica della grafia, per indagare la p
 A tutti i soggetti è stato richiesto di compiere 25 Task di scrittura manuale, i dati raccolti sono stati catalogati ed elaborati. 
 Successivamente, questa mole di dati (immagini) è stata utilizzata per alimentare diversi Modelli di Reti Neurali.
 
-![Screenshot](CNN.png)
+![Screenshot](CNN.jpg)
 
 La Rete Neurale Convoluzionale utilizzata in questo codice è la EfficientNetB0. 
 Attraverso Tensorflow si può cambiare la rete neurale da utilizzare.
